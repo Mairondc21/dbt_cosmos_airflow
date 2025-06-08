@@ -1,0 +1,12 @@
+p_dw:
+  outputs:
+    dev:
+      dbname: dbt_db
+      host: localhost
+      pass: dbtpostgres
+      port: 5433
+      schema: public
+      threads: 1
+      type: postgres
+      user: dbtuser
+  target: dev
