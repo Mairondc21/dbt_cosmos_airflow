@@ -1,1 +1,0 @@
-# dbt_cosmos_airflow
